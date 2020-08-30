@@ -6,7 +6,7 @@
   "client_email": "googlemybusiness@mybusiness-196713.iam.gserviceaccount.com",
   "client_id": "11774142926613163797123",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "token_uri": "https://accounts.google.com/o/oauth2/token222",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlemybusiness%40mybusiness-196713.iam.gserviceaccount.com"
 }
