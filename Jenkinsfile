@@ -12,7 +12,7 @@ echo ("Checkout")
         stage('Build') {
             steps {
               
-               echo 'Building the code'
+               echo 'Building the codes'
             }
         }
         
@@ -25,7 +25,7 @@ echo ("Checkout")
          stage('QA Deployement') {
             steps {
               
-               echo 'Deploy the code'
+               echo 'Deploy the codes'
             }
         }
            stage('Production Deployement') {
