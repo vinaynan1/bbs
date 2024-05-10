@@ -2,13 +2,13 @@ pipeline {
     agent any
  stages {
 
-        stage('Csheckout12a3') {
+        stage('Csheckout1216ai3') {
             steps {
                
 echo ("Checkout")
             }
         }
-    
+      
     
         stage('Build') {
             steps {
@@ -36,4 +36,4 @@ echo ("Checkout")
             }
         }
     }
-}
+  }
