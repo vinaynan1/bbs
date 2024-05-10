@@ -1,6 +1,7 @@
 pipeline {
     agent any
  stages {
+
         stage('Csheckout12a3') {
             steps {
                
